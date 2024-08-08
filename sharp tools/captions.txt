@@ -1,0 +1,31 @@
+image,caption
+scissor.jpeg, There is a pair of scissors.
+scissor.jpeg, Scissors is blue in color.
+scissor.jpeg, A blue scissors is lying ahead.
+scissor.jpeg, The blue scissors is in closed position.
+scissor.jpeg, The blue scissors is kept closed.
+mansciss.jpeg, A man is holding scissors.
+mansciss.jpeg, A man is standing and holding scissors.
+mansciss.jpeg, A man in beard is standing and holding black scissors.
+mansciss.jpeg, A man in white shirt is standing and holding black scissors.
+mansciss.jpeg, A man  in white shirt  is smiling and having scissors in his hands.
+ladysciss.jpeg, A lady in sari is holding scissors.
+ladysciss.jpeg, A lady in orange sari is holding a metallic scissors.
+ladysciss.jpeg, A woman in sari is holding scissors in her hands.
+ladysciss.jpeg, A woman in sari is holding  metallic scissors in her hands.
+ladysciss.jpeg, A woman is having scissors in her hands.
+girlsciss.jpeg, A young girl in black shirt is holding scissors.
+girlsciss.jpeg, A woman with long hair in black shirt is holding metallic scissors.
+girlsciss.jpeg, A woman is holding scissors.
+girlsciss.jpeg, A woman is holding scissors.
+girlsciss.jpeg, A woman  with brown hair is holding scissors.
+download.jpeg, A bunch of scissors is kept ahead.
+download.jpeg, A bunch of scissors with plastic body and metallic head is kept ahead.
+download.jpeg, A bunch of scissors in black and white color is lying ahead.
+download.jpeg, There are some black scissors lying ahead.
+download.jpeg, There are some white scissors lying ahead.
+cuttingwithscissors.jpeg, A young boy is holding scissors.
+cuttingwithscissors.jpeg, A young boy is holding scissors and cutting a paper.
+cuttingwithscissors.jpeg, A young boy is holding blue scissors and cutting a pink paper.
+cuttingwithscissors.jpeg, A young boy is using blue scissors to cut a paper.
+cuttingwithscissors.jpeg, A young boy in purple shirt is holding scissors and cutting a paper.

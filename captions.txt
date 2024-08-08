@@ -1,3 +1,4 @@
+image,caption
 1002674143_1b742ab4b8.jpg,A little girl covered in paint sits in front of a painted rainbow with her hands in a bowl .
 1002674143_1b742ab4b8.jpg,A little girl is sitting in front of a large painted rainbow .
 1002674143_1b742ab4b8.jpg,A small girl in the grass plays with fingerpaints in front of a white canvas with a rainbow on it .
