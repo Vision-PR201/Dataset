@@ -1,0 +1,6 @@
+image,captions
+tvpeople.jpeg, Friends watching soccer on TV
+tvpeople.jpeg, People watching a soccer game on TV.
+tvpeople.jpeg, Friends enjoying soccer on TV.
+tvpeople.jpeg, Watching a soccer match at home.
+tvpeople.jpeg, Group watching TV together.
