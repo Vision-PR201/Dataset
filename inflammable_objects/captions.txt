@@ -1,0 +1,46 @@
+image,caption
+fire.png, There is a big fire burning brightly.
+fire.png, The fire is making a lot of smoke as it burns.
+fire.png, There is a large fire burning on the side of the river.
+fire.png, The fire is lighting up the dark night with its bright flames.
+fire.png, A bright fire is burning, casting warm light around it.
+lighter.png, A person is holding a lighter.
+lighter.png, A person is having a metal lighter in his hand.
+lighter.png, A steady flame is coming from the lighter.
+lighter.png, A person has a lighter in his left hand.
+lighter.png, A brightly lit lighter is in the hands of a person.
+manlighter.png, A man is holding a lighter.
+manlighter.png, A man is having a metal lighter in his hand.
+manlighter.png, A man in tshirt is holding a lit lighter in his left hand.
+manlighter.png, A man wearing a black tshirt has a lighter.
+manlighter.png, A man is sitting and holding a lighter.
+womanlighter.png, A woman is holding a shiny lighter.
+womanlighter.png, A woman in brown jacket is having a metal lighter in her hand.
+womanlighter.png, A woman in jacket is holding a burning lighter.
+womanlighter.png, A woman with long hair has a brightly burning lighter in her hand.
+womanlighter.png, A woman is standing and holding a lighter.
+girllighter.png, A young girl is holding a lighter.
+girllighter.png, A child is holding a black lighter in her hand.
+girllighter.png, A girl in pink tshirt is holding a burning lighter.
+girllighter.png, A young girl with blue eyes has a lighter.
+girllighter.png, A young girl in pink tshirt is standing and holding a black burning lighter.
+candle.png, A burning candle is kept on the table.
+candle.png, A white candle is lighting up the room.
+candle.png, A burning white candle is kept on the table in the dark.
+candle.png, A candle burning in the dark.
+candle.png, A white candle is lit and burning brightly.
+mancandle.png, A burning candle is in the hands of a man.
+mancandle.png, A man is holding a candle.
+mancandle.png, A man is holding a burning candle in the dark.
+mancandle.png, A man is having a white candle in his hand.
+mancandle.png, A man in the dark has a burning white candle in his hand.
+womancandle.png, A woman is holding a candle.
+womancandle.png, A woman is holding a candle.
+womancandle.png, A woman in white is holding a burning candle.
+womancandle.png, A woman is having a white candle in her hand.
+womancandle.png, A woman in white has a burning white candle in her hand.
+stove.png, A stove is burning.
+stove.png, A stove is burning with a blue flame.
+stove.png, A burning stove is kept in the kitchen.
+stove.png, Food is being cooked on the stove.
+stove.png, A ignited stove is kept in the kitchen.
