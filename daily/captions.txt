@@ -1,0 +1,32 @@
+image,captions
+girlpen-min.jpeg, Taking handwritten notes while working.
+girlpen-min.jpeg,Pen in hand, capturing key ideas.
+girlpen-min.jpeg, Jotting down thoughts with a pen during work.
+girlpen-min.jpeg, Focusing on details with pen and paper.
+girlpen-min.jpeg,Writing down important notes with a pen.
+kidpen-min.jpeg, A kid with pen and paper.
+kidpen-min.jpeg,A young boy is writing on paper with pen.
+kidpen-min.jpeg,A kid is using pen.
+kidpen-min.jpeg,A kid is studying and writing with pen.
+kidpen-min.jpeg,A boy is writing on paper.
+ladpen-min.jpeg, A man in blue shirt is holding a pen.
+ladpen-min.jpeg, A man in blue shirt is holding a pen and paper.
+ladpen-min.jpeg, A man is holding a pen in his hand and speaking.
+ladpen-min.jpeg, A man in blue shirt is speaking and holding a pen and paper.
+ladpen-min.jpeg, A man in shirt is speaking with a pen in his hand.
+manpen-min.jpeg, A man with spectacles is writing with a pen.
+manpen-min.jpeg, There is a table on which a cup and book is kept.
+manpen-min.jpeg, A man in shirt is studying with a pen and book.
+manpen-min.jpeg,A green cup is kept on table.
+manpen-min.jpeg, A pile of books are kept on table.
+pens-min.jpeg, There are three pens.
+pens-min.jpeg,There are 2 blue pens and 1 white pen.
+pens-min.jpeg,Pens.
+pens-min.jpeg,Some pens are lying.
+pens-min.jpeg,Pens lying on a surface.
+penstand-min.jpeg,A bunch of pens.
+penstand-min.jpeg,Many pens kept in a penstand.
+penstand-min.jpeg,A white penstand.
+penstand-min.jpeg,Four pens kept in penstand.
+penstand-min.jpeg, A penstand kept on white surface.
+
