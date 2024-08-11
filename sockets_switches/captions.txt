@@ -1,0 +1,51 @@
+image, caption
+socket1.jpeg, Two white electrical sockets placed side by side.
+socket1.jpeg, A pair of white wall outlets aligned horizontally.
+socket1.jpeg, Adjacent five-hole white power sockets on a wall.
+socket1.jpeg, Two connected white electrical outlets.
+socket1.jpeg, Side-by-side white sockets on a flat surface.
+hand_socket.jpeg, Hand plugging a black cable into a white wall socket.
+hand_socket.jpeg, Person inserting a plug into a five-hole electrical socket.
+hand_socket.jpeg, A person connecting a black cord to a white power outlet.
+hand_socket.jpeg, A person with white shirt inserting a plug into a wall socket with a white background.
+hand_socket.jpeg, White socket with five holes being used by a black cable.
+baby_socket.jpeg, Baby reaching for a wall socket.
+baby_socket.jpeg, Baby touching a white power socket.
+baby_socket.jpeg, A child in white shirt touching a power socket.
+baby_socket.jpeg, A baby inserting fingers in the power socket.
+baby_socket.jpeg, A child in white shirt and blue pants playing around a socket.
+man_socket.jpeg, Man using a screwdriver to repair a wall socket.
+man_socket.jpeg, A man in blue shirt holding a screwdriver near a power socket.
+man_socket.jpeg, A man in spectacles touching the wall socket.
+man_socket.jpeg, A man wearing a blue shirt with screwdriver.
+man_socket.jpeg, Man near a white socket on a white wall.
+women_socket.jpeg, A woman in blue shirt.
+women_socket.jpeg, Woman standing in front of a wall with switches.
+women_socket.jpeg, A woman standing in front of a white wall.
+women_socket.jpeg, There is a switch board behind the woman.
+women_socket.jpeg, A woman standing near the switch board.
+switch1.jpeg, A white switch.
+switch1.jpeg, A person turning the switch on.
+switch1.jpeg, There is a white switch on a white wall.
+switch1.jpeg, A person touching a switch.
+switch1.jpeg, There is a white rectangular switch.
+child_switch.jpeg, A child near a switch.
+child_switch.jpeg, A kid turning a switch on.
+child_switch.jpeg, A white switch on a white wall.
+child_switch.jpeg, A girl touching a white switch.
+child_switch.jpeg, A girl with black hair and white shirt near a white switch.
+woman_switch.jpeg, A woman in yellow shirt.
+woman_switch.jpeg, A woman rotating a regulator.
+woman_switch.jpeg, A circular regulator.
+woman_switch.jpeg, A woman with blond hair near a white wall.
+woman_switch.jpeg, A switch board on a white wall.
+man_switch.jpeg, A man in blue shirt.
+man_switch.jpeg, A man near a switch board.
+man_switch.jpeg, A man smiling near a white wall.
+man_switch.jpeg, A man in blue shirt and blue jeans pressing the switch.
+man_switch.jpeg, A man near a switch on a white wall.
+switch5.jpeg, A toggle switch.
+switch5.jpeg, A person turning on a switch.
+switch5.jpeg, A toggle switch on a white wall.
+switch5.jpeg, A hand near a switch.
+switch5.jpeg, A hand near a white wall with switch.
