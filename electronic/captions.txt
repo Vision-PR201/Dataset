@@ -4,3 +4,43 @@ tvpeople.jpeg, People watching a soccer game on TV.
 tvpeople.jpeg, Friends enjoying soccer on TV.
 tvpeople.jpeg, Watching a soccer match at home.
 tvpeople.jpeg, Group watching TV together.
+tvset.jpeg,Watching a beach scene on TV.
+tvset.jpeg,A man is there in a living room with TV on.
+tvset.jpeg,Man sitting on the couch with the TV on.
+tvset.jpeg,A man enjoying a peaceful moment with TV.
+tvset.jpeg,A man watching a beach scene on TV.
+laptop.jpeg, Man working on his laptop.
+laptop.jpeg, Smiling man using a computer.
+laptop.jpeg, Focused on work at the laptop.
+laptop.jpeg, Man sitting and typing on a laptop.
+laptop.jpeg, Enjoying work on the computer.
+femalelaptop.jpeg,Woman smiling while using her laptop.
+femalelaptop.jpeg,Happy woman working on her computer.
+femalelaptop.jpeg,Typing on a laptop with a smile.
+femalelaptop.jpeg,Woman enjoying her work on a laptop.
+femalelaptop.jpeg,Smiling woman focused on her computer.
+kids.jpeg, Three kids are watching something on laptop.
+kids.jpeg, Two girls and one boy are smiling and using a laptop.
+kids.jpeg, Children are using laptop.
+kids.jpeg, Smiling kids are working on laptop.
+kids.jpeg, Three kids are smiling and using a laptop.
+manmobile.jpeg,A man looking at his smartphone while sitting on a couch.
+manmobile.jpeg,A man is wearing an orange shirt and smiling at something on his phone.
+manmobile.jpeg,The man is seated comfortably indoors, engaging with his mobile device.
+manmobile.jpeg,A bearded man browsing his smartphone at home.
+manmobile.jpeg,A man is focused on his smartphone, sitting on a beige sofa.
+womanmobile.jpeg,A woman checking her smartphone while working on her laptop.
+womanmobile.jpeg,She is sitting at a desk with art supplies, using her phone.
+womanmobile.jpeg,The woman is multitasking between her phone and laptop.
+womanmobile.jpeg,A woman wearing glasses focuses on her smartphone during work.
+womanmobile.jpeg,A creative workspace with a woman using her phone and laptop.
+manwomanmobile.jpeg,A man and a woman using their mobile phones .
+manwomanmobile.jpeg,Both individuals are standing in a field, focused on their phones.
+manwomanmobile.jpeg,The man and woman are outdoors, each engaged with their mobile devices.
+manwomanmobile.jpeg,They are dressed in traditional clothing while using their phones.
+manwomanmobile.jpeg,A man and a woman use their mobile phones while standing in an agricultural setting.
+kidmobile.jpeg,A bunch of kids are using their mobile phones.
+kidmobile.jpeg,Young girls and boys are watching something on their smartphones.
+kidmobile.jpeg,Four girls and one boy are using smartphones.
+kidmobile.jpeg,A young boy is smiling and using smartphone.
+kidmobile.jpeg,Young girls are smiling and watching mobilephones.

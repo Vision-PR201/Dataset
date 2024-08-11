@@ -35,7 +35,7 @@ mancandle.png, A man is holding a burning candle in the dark.
 mancandle.png, A man is having a white candle in his hand.
 mancandle.png, A man in the dark has a burning white candle in his hand.
 womancandle.png, A woman is holding a candle.
-womancandle.png, A woman is holding a candle.
+womancandle.png, A woman is holding a white candle.
 womancandle.png, A woman in white is holding a burning candle.
 womancandle.png, A woman is having a white candle in her hand.
 womancandle.png, A woman in white has a burning white candle in her hand.
