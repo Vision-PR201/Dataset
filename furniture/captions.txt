@@ -1,0 +1,115 @@
+image, caption
+woodenchair.jpg, There is a wooden chair.
+woodenchair.jpg, The wooden chair is brown in colour.
+woodenchair.jpg, The chair is made out of wood.
+woodenchair.jpg, There is a brown wooden chair.
+woodenchair.jpg, The chair is brown and made out of wood.
+woodenchairboy.jpg, There is a boy sitting on a chair.
+woodenchairboy.jpg, There is a boy sitting on a brown wooden chair.
+woodenchairboy.jpg, The wooden chair has a young boy sitting on it.
+woodenchairboy.jpg, A young boy is sitting on a wooden chair.
+woodenchairboy.jpg, A boy is sitting on a brown wooden chair.
+woodenchairgirl.jpg, There is a girl sitting on a chair.
+woodenchairgirl.jpg, There is a young girl sitting on a wooden chair.
+woodenchairgirl.jpg, The girl sitting on a brown wooden chair is young.
+woodenchairgirl.jpg, The young girl is sitting on a brown chair.
+woodenchairgirl.jpg, The girl is sitting on a brown wooden chair.
+woodenchairman.jpg, There is a man sitting on a chair.
+woodenchairman.jpg, There is a man sitting on a wooden chair.
+woodenchairman.jpg, The color of the chair that the man is sitting on is brown.
+woodenchairman.jpg, The chair that the man is sitting on is made out of wood.
+woodenchairman.jpg, There is a man sitting on a brown wooden chair.
+woodenchairman2.jpg, There is a man sitting on a chair.
+woodenchairman2.jpg, There is a man sitting on a wooden chair.
+woodenchairman2.jpg, The color of the chair that the man is sitting on is brown.
+woodenchairman2.jpg, The chair that the man is sitting on is made out of wood.
+woodenchairman2.jpg, There is a man sitting on a brown wooden chair.
+woodenchairoldman.jpg, There is an old man sitting on a chair.
+woodenchairoldman.jpg, There is an old man sitting on a wooden chair.
+woodenchairoldman.jpg, The color of the chair that the old man is sitting on is brown.
+woodenchairoldman.jpg, The chair that the old man is sitting on is made out of wood.
+woodenchairoldman.jpg, The man sitting on the wooden chair is old.
+woodenchairoldwoman.jpg, There is a old woman sitting on a chair.
+woodenchairoldwoman.jpg, There is a old woman sitting on a wooden chair.
+woodenchairoldwoman.jpg, The color of the chair that the old woman is sitting on is brown.
+woodenchairoldwoman.jpg, The chair that the old woman is sitting on is made out of wood.
+woodenchairoldwoman.jpg, The woman sitting on the wooden chair is old.
+woodenchairpair.jpg, There is a pair of brown wooden chairs.
+woodenchairpair.jpg, There are two wooden chairs which are brown in colour.
+woodenchairpair.jpg, The chairs are made out of wood.
+woodenchairpair.jpg, The wooden chairs are brown in colour.
+woodenchairpair.jpg, The chairs are brown and made out of wood.
+woodenchairwoman.jpg, There is a woman sitting on a chair.
+woodenchairwoman.jpg, There is a woman sitting on a wooden chair.
+woodenchairwoman.jpg, The color of the chair that the woman is sitting on is brown.
+woodenchairwoman.jpg, The chair that the woman is sitting on is made out of wood.
+woodenchairwoman.jpg, There is a woman sitting on a brown wooden chair.
+woodenchairwoman2.jpg, There is a woman sitting on a chair.
+woodenchairwoman2.jpg, There is a woman sitting on a wooden chair.
+woodenchairwoman2.jpg, The color of the chair that the woman is sitting on is brown.
+woodenchairwoman2.jpg, The chair that the woman is sitting on is made out of wood.
+woodenchairwoman2.jpg, There is a woman sitting on a brown wooden chair.
+sofa.jpg, There is a white sofa.
+sofa.jpg, The sofa is white in colour.
+sofa.jpg, There is a sofa.
+sofa.jpg, There is a sofa that is white in colour.
+sofa.jpg, There is a white sofa present in the room.
+sofaset.jpg, There is a pair of sofas.
+sofaset.jpg, There are two sofas.
+sofaset.jpg, There is a grey sofa and a brown sofa.
+sofaset.jpg, There is a sofa that is grey in colour and a sofa that is brown in colour.
+sofaset.jpg, There are sofas in two different colours, brown and grey.
+sofaboy.jpg, There is a young boy sitting on a grey sofa.
+sofaboy.jpg, The sofa that the boy is sitting on is grey in colour.
+sofaboy.jpg, There is a boy sitting on a sofa.
+sofaboy.jpg, There is a yellow pillow behing the young boy sitting on the white sofa.
+sofaboy.jpg, There is a pillow behind the boy sitting on the sofa.
+sofagirl.jpg, There is a young girl sitting on a cream sofa.
+sofagirl.jpg, The sofa that the young girl is sitting on is cream in colour.
+sofagirl.jpg, There is a girl sitting on a sofa.
+sofagirl.jpg, The young girl sitting on the sofa is wearing a white shirt.
+sofagirl.jpg, There are two pillows on the cream sofa.
+sofaman.jpg, There is a man sitting on the grey sofa.
+sofaman.jpg, The sofa that the man is sitting on is grey in colour.
+sofaman.jpg, There is a man sitting on a sofa.
+sofaman.jpg, There are 5 grey pillows on the grey sofa.
+sofaman.jpg, There are pillows on the sofa.
+sofaman2.jpg, There is a man sitting on the grey sofa.
+sofaman2.jpg, The sofa that the man is sitting on is grey in colour.
+sofaman2.jpg, There is a man sitting on a sofa.
+sofaman2.jpg, There are 2 grey pillows on the grey sofa.
+sofaman2.jpg, There are pillows on the sofa.
+sofaoldman.jpg, There is an old man sitting on the grey sofa.
+sofaoldman.jpg, The sofa that the old man is sitting on is grey in colour.
+sofaoldman.jpg, The man sitting on the grey sofa is old.
+sofaoldman.jpg, There is one yellow pillows on the grey sofa.
+sofaoldman.jpg, Thereis one pillow on the sofa.
+sofaoldwoman.jpg, There is a old woman sitting on the blue sofa.
+sofaoldwoman.jpg, The sofa that the old woman is sitting on is blue in colour.
+sofaoldwoman.jpg, The woman sitting on the blue sofa is old.
+sofaoldwoman.jpg, There is one blue pillow on the blue sofa.
+sofaoldwoman.jpg, There is a pillow on the sofa.
+sofawoman.jpg, There is a woman sitting on the grey sofa.
+sofawoman.jpg, The sofa that the woman is sitting on is grey in colour.
+sofawoman.jpg, The woman sitting on the grey sofa is wearing a yellow top.
+sofawoman.jpg, There are 2 yellow pillows on the grey sofa.
+sofawoman.jpg, The woman is sitting with laptop on the sofa.
+sofawoman2.jpg, There is a woman sitting on the white sofa.
+sofawoman2.jpg, The sofa that the woman is sitting on is white in colour.
+sofawoman2.jpg, The woman sitting on the grey sofa is wearing a yellow top.
+sofawoman2.jpg, There are 2 white pillows on the white sofa.
+sofawoman2.jpg, The woman is sitting with a white pillow on the sofa.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
