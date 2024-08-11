@@ -1,0 +1,51 @@
+image,caption
+gun.jpeg, A black gun is placed here.
+gun.jpeg, Handgun lying on the table, metallic body with signs of oxidation.
+gun.jpeg, Focus on the gun it's a dangerous object.
+gun.jpeg, gun is used for crime generally.
+gun.jpeg, A Small Gun will bullet casing on a red table.
+types.jpeg, An AK-47 rests on a weathered wooden table.
+types.jpeg, A powerful image of an assault rifle, its deadly potential momentarily forgotten.
+types.jpeg, An assault gun is placed here with several bullet casing.
+types.jpeg, M-14 Rifle is placed on a brown table.
+types.jpeg, Deadly rifles mostly used for wars with large ammunition.
+shooting.jpeg, A man trying to practise shooting with gun.
+shooting.jpeg, He is wearing blue googles to improve his shooting skills with his rifle.
+shooting.jpeg, A man with black hair trying to shoot his target in a deadly dessert with gun.
+shooting.jpeg, He is using ear plug to protect his ears from sound of the bullet.
+shooting.jpeg, A black gun is used to hit two simultaenous target here.
+man_pointing_gun.jpeg, A man trying to harm himself with a very olg gun.
+man_pointing_gun.jpeg, He is trying to pull the trigger of his pistol.
+man_pointing_gun.jpeg, A man resting gun on his forehead.
+man_pointing_gun.jpeg, A man with black hair trying to commit suicide by shooting himself with this black gun.
+man_pointing_gun.jpeg, Man trying to kill himself with a old revolver.
+oympics.jpeg, Teams competing against each other with rifles.
+oympics.jpeg, 5 men from different nations shooting with their large rifles.
+oympics.jpeg, They are targeting objects to shoot with their large guns.
+oympics.jpeg, Properly equipped with gears and competing in olympics with medal in a Gun-shooting event.
+oympics.jpeg, Their data is being monitored consistenly by a sensor in front of them to get theit shooting gun accuracy with rifles.
+attack.jpeg, A woman is being attacked by a gun.
+attack.jpeg, A woman wearing gray sweater look tensed while someone is trying to rob her car with gun.
+attack.jpeg, A person wearing black hoodie trying to steal a car from a women with a gun.
+attack.jpeg, A woman is coming out of her car when a person point his gun to her.
+attack.jpeg, She is trying to run away when a person with black gun comes up.
+police_gun.jpeg, A police man working on his duty to prevent a tragedy.
+police_gun.jpeg, A police man with mask and his gun on his duty at a public place.
+police_gun.jpeg, It look like a group of officers are helping local people in a house and are carrying gun for thier security.
+police_gun.jpeg, An old men with his gun on his duty to guard people.
+police_gun.jpeg, Polce man with black gun in a gathering to assist them.
+protect.jpeg, A man peeking from his window with a gun on his hand.
+protect.jpeg, He is wearing a gray hoodie with gun on his hand.
+protect.jpeg, Trying to peek outside his house from sliding curtain with a black gun in his hand.
+protect.jpeg, Man with black hair trying to check outside his home from curtains with a gun to protect himself.
+protect.jpeg, Man checking his neighbourhood to feel safe use gun for his security.
+robber.jpeg, A young man in gray sweater aiming at a person with his gun.
+robber.jpeg, Young muscular man trying to rob from a skinny boy.
+robber.jpeg, Man with green shirt looks afraid with his hands raised trying to protect himself from his black gun.
+robber.jpeg, Man looks pretty confident while trying to shoot another man with his pistols.
+robber.jpeg, A man trying to steals money from a young boy besides a brown wall with his gun.
+childlearning.jpeg, A young man teaching a young boy to shoot from a rifle.
+childlearning.jpeg, A man wearing balck shirt helping boy with aiming from his rifle.
+childlearning.jpeg, A young boy trying to shoot an objects get assisted by a man with black beard to shoot.
+childlearning.jpeg, Boy with black shirt aiming at a object to shoot from his rifle in a public gathering.
+childlearning.jpeg, Boy is being trained by a young men to improve his shooting skills.
