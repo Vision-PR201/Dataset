@@ -29,4 +29,39 @@ penstand-min.jpeg,Many pens kept in a penstand.
 penstand-min.jpeg,A white penstand.
 penstand-min.jpeg,Four pens kept in penstand.
 penstand-min.jpeg, A penstand kept on white surface.
+mugman-min.jpeg,Man drinking from a mug
+mugman-min.jpeg,Person sipping coffee.
+mugman-min.jpeg,Man wearing glasses with a cup.
+mugman-min.jpeg,Coffee drinker in green shirt
+mugman-min.jpeg,Man holding a red and white mug
+mugpeople-min.jpeg,Four people holding mugs together.
+mugpeople-min.jpeg,Group of friends with raised mugs.
+mugpeople-min.jpeg,People holding mugs at a table.
+mugpeople-min.jpeg,Four people touching mugs.
+mugpeople-min.jpeg,Group of four with mugs in hand.
+mugwoman-min.jpeg,Smiling woman with a mug.
+mugwoman-min.jpeg,Woman holding a colorful mug.
+mugwoman-min.jpeg,Happy woman with a drink.
+mugwoman-min.jpeg,Woman enjoying her beverage.
+mugwoman-min.jpeg,Relaxed woman holding a mug.
+bottles-min.jpeg,Five colorful bottles
+bottles-min.jpeg,Venice brand bottles.
+bottles-min.jpeg,Bottles in different colors.
+bottles-min.jpeg,Colorful plastic bottles.
+bottles-min.jpeg,Five bottles lined up.
+drinkgirl-min.jpeg,Woman drinking water.
+drinkgirl-min.jpeg,Woman with a water bottle.
+drinkgirl-min.jpeg,Thirsty woman drinking.
+drinkgirl-min.jpeg,Woman taking a drink.
+drinkgirl-min.jpeg,Hydrating with water.
+manwithbucket-min.jpeg, Man holding a bucket .
+manwithbucket-min.jpeg, The bucket has  many bottles.
+manwithbucket-min.jpeg, A man in yellow shirt holding a bucket.
+manwithbucket-min.jpeg, A man in yellow shirt holding a bucket filled with bottles.
+manwithbucket-min.jpeg, A man is smiling and holding a bucket of bottles.
+ladybucket-min.jpeg, A lady in red shirt and blue jeans is holding two buckets.
+ladybucket-min.jpeg,A woman is holding buckets.
+ladybucket-min.jpeg,A lady is holding a blue and a yellow bucket.
+ladybucket-min.jpeg,A lady in red shirt, blue jeans and black shoes is holding buckets.
+ladybucket-min.jpeg,A lady with brown hair holding buckets.
 
